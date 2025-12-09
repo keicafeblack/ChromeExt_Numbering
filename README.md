@@ -4,7 +4,9 @@ Web会議や画面共有時の「あ、その右のボタン…いや、もう�
 
 画面上の入力フィールドやボタンを自動で検出し、**見た目の順序（左上から右下）** に基づいて連番（1, 2, 3...）をオーバーレイ表示します。
 
-*(ここに実際の動作スクリーンショットを貼ってください)*
+<img width="1400" height="764" alt="image" src="https://github.com/user-attachments/assets/0c16ee54-fd82-420f-b5fe-e204ed15a7f4" />
+<img width="1400" height="392" alt="image" src="https://github.com/user-attachments/assets/c6228076-f54b-45a2-a806-a9189c006bc5" />
+
 
 ## **✨ 特徴**
 
